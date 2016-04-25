@@ -1,0 +1,14 @@
+
+.botaoAdd, .botaoRemover, .botaoSalvarGray,.botaoSalvar, .botaoALterarGray,.botaoALterar, .botaoCancelar, .botaoExcluirGray, .botaoExcluir, .botaoConsulta2, .botaoLimpar, .botaoLogin, .botaoCalendario, .botaoCalendarioGray, .botaoImpressora, .botaoImprimirPdf {
+	border: 0px;
+	background-color: #FFFFFF;
+	background-repeat:no-repeat;
+	cursor: pointer;
+}
+
+.botaoCalendario {
+	background-image:url(../img/calendar.gif);
+	width:auto;
+	height:auto;
+	
+}
